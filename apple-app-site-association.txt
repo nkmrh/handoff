@@ -1,0 +1,1 @@
+{"webcredentials":{"apps":["QA8AV789YN.jp.hajimenakamura.blog.handoff”]},”activitycontinuation":{"apps":["QA8AV789YN.jp.hajimenakamura.blog.handoff”]},"applinks":{"apps":[],"details":{"QA8AV789YN.jp.hajimenakamura.blog.handoff":{"paths":["/wwdc/news/","/videos/wwdc/2015/*"]}}}}
